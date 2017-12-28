@@ -9,8 +9,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/negz/kuberos"
-	"github.com/negz/kuberos/extractor"
+	"github.com/alahijani/kuberos"
+	"github.com/alahijani/kuberos/extractor"
 
 	oidc "github.com/coreos/go-oidc"
 	"github.com/facebookgo/httpdown"

@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/negz/kuberos/extractor"
+	"github.com/alahijani/kuberos/extractor"
 
 	oidc "github.com/coreos/go-oidc"
 	"github.com/gorilla/schema"

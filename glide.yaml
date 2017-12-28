@@ -1,4 +1,4 @@
-package: github.com/negz/kuberos
+package: github.com/alahijani/kuberos
 import:
 - package: github.com/coreos/go-oidc
 - package: github.com/facebookgo/httpdown
